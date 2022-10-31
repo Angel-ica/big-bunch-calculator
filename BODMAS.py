@@ -1,4 +1,4 @@
-Vdef finalcal(str=''):
+def finalcal(str=''):
 
     first = 0
     if(str[0]=='-'):
@@ -232,7 +232,8 @@ def Advcalc():
             exit()
         Brackets(n)
 
-Advcalc()def finalcal(str=''):
+Advcalc()
+def finalcal(str=''):
 
     first = 0
     if(str[0]=='-'):

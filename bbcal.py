@@ -5,7 +5,6 @@ print ("1. ADD")
 print ("2. SUBTRACT")
 print ("3. MULTIPY")
 print ("4. DIVIDE")
-print ("5. BRACKETS")
 
 operation = input()
 
