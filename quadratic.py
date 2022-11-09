@@ -14,6 +14,6 @@ def solve_quadratic(a, b, c):
             print(answers)
             break
         
-solve_quadratic(2, 80, 6)
+# solve_quadratic(2, 80, 6)
     
     
